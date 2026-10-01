@@ -29,7 +29,3 @@ Projeto de análise de dados do **Olist Brazilian E-Commerce Dataset**, desenvol
 ##  Insights
 
 As análises permitiram identificar diferenças de faturamento, volume de vendas e avaliações entre categorias, vendedores e estados. Também foi possível acompanhar a evolução mensal do faturamento e criar estruturas reutilizáveis para futuras consultas.
-
-##  Objetivo
-
-Praticar SQL através de um conjunto de dados real, desenvolvendo consultas e estruturas voltadas para análise de dados e geração de informações para apoio à tomada de decisão.
