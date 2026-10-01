@@ -2,6 +2,16 @@
 
 Projeto de análise de dados do **Olist Brazilian E-Commerce Dataset**, desenvolvido para praticar SQL e explorar informações de vendas, produtos, clientes, vendedores e avaliações.
 
+##  Como executar
+
+1. Instale o [PostgreSQL](https://www.postgresql.org/) e uma ferramenta para executar SQL, como o pgAdmin.
+
+2. Crie um banco de dados para o projeto.
+
+3. Baixar e importar os arquivos `.csv` do dataset Olist para as respectivas tabelas. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+4. Abra o arquivo `.sql` do projeto no pgAdmin e faça apenas uma consulta por vez para não ocasionar em erro.
+
 ##  Tecnologias
 
 - PostgreSQL
